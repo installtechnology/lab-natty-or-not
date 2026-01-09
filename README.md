@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🧠 Natty or Not: Criatividade com IA Generativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foi desenvolvido como parte do Lab **Natty or Not** da DIO, com o objetivo de explorar o uso de **Inteligência Artificial Generativa** para criação de conteúdos realistas, analisando até que ponto é possível distinguir o que foi criado por humanos e por IA.
+
+O projeto utiliza IAs generativas para criação de textos e imagens, refletindo sobre criatividade, realismo e os limites atuais dessas tecnologias.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT (OpenAI) – geração de textos
+- IA de geração de imagens (ex: DALL·E, Midjourney ou similar)
+- Git e GitHub
+- Markdown para documentação
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Definição do conceito “Natty or Not”, inspirado na comparação entre conteúdo humano e conteúdo gerado por IA.
+2. Criação de textos motivacionais e descritivos utilizando IA Generativa.
+3. Geração de imagens realistas a partir de prompts bem definidos.
+4. Organização dos arquivos e documentação do projeto no GitHub.
+5. Escrita do README explicando o processo, tecnologias e resultados.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Conteúdos visuais e textuais altamente realistas gerados por IA.
+- Demonstração prática do potencial das IAs Generativas.
+- Projeto documentado e versionado, pronto para portfólio profissional.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar algo que pareça “natty” com IA é um desafio interessante. A principal dificuldade está em ajustar os prompts para alcançar naturalidade e realismo sem exageros. Esse projeto mostrou como a IA pode ser uma grande aliada criativa, desde que usada com critério e intenção clara.
